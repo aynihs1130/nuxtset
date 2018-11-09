@@ -1,0 +1,3 @@
+/**
+ * @file vuex type name.
+ */
